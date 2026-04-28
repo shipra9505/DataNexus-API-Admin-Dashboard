@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import Overview from './pages/Overview'
-import Users    from './pages/Users'
-import Logs     from './pages/Logs'
+import Overview from './pages/O'
+import Users    from './pages/U'
+import Logs     from './pages/l'
 
 const NAV = [
   { id: 'overview', label: 'Overview'  },
